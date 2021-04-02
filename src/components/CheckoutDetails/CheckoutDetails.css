@@ -1,0 +1,39 @@
+.checkoutDetails-container{
+    overflow: hidden;
+    box-shadow:0px 0px 15px -5px;
+    transition: 0.3s;
+    animation:ease-in;
+    margin: 10px 100px 50px 20px;
+    height: 200px;
+}
+
+.checkoutDetails-container h3{
+    text-decoration: underline;
+}
+
+.underline{
+    border-bottom: 2px solid cadetblue;
+    display: inline-block;
+    line-height: 0.85;
+}
+
+.description{
+    margin-top:10px;
+}
+
+
+.quantity{
+    margin-top:10px;
+}
+
+
+.price2{
+    margin-top:10px;
+    margin-left:10px;
+
+}
+
+.btn-checkout{
+    margin-top:-30px;
+    margin-left: 700px;
+}

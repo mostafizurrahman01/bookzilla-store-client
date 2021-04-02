@@ -1,0 +1,21 @@
+.table-body{
+    margin: 50px;
+}
+
+#product{
+    margin: 20px;
+    border: 2px solid beige;
+    width: 700px;
+}
+
+.table-author{
+    margin-left: 30px;
+    background-color:azure;
+}
+.table-price{
+    margin-left:50px;
+}
+
+.table-btn{
+    margin-left: 30px;
+}

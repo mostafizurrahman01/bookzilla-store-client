@@ -1,0 +1,45 @@
+.admin{
+    margin-top: -670px;
+}
+
+.btn-modify2{
+    margin-top:150px;
+    margin-right: 200px;
+    background-color: blue;
+    color:white;
+   
+}
+.input-form{
+    box-shadow: 0px 0px 15px -5px;
+    border-radius: 20px;
+    margin-right: 50px;
+    margin-top: 30px;
+    background-color:white;
+}
+.form-modify{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.form-modify2{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.form-container{
+    margin-left: 400px;
+    background-color:skyblue;
+    height: 550px;
+    
+}
+
+.btn-section{
+    background-color:darkslateblue;
+    height: 550px;
+}
+
+.btn-section button{
+    font-size:20px;
+    margin-top:30px;
+    margin-left: 10px;
+    color:white;
+}
