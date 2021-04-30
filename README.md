@@ -1,9 +1,15 @@
+Bookzilla Store
+
+live link: "https://bookzilla-store.web.app/";
+
 Hello,
 This is full stack web app. On this website, there have some
-interesting features. Some of these features are a Dynamic home page,Orders Page,
-Authentication System, Admin System, Deals page etc. An admin can update some of the features or include and also can delete. Anyone when a buyer click the buys now option, all of
-the information will conserve in our database. So, that is some explanation and definitely, it will
-not provide you a 100% service. It's always updateable by our admin. 
+interesting features. Some of these features are :
+1. Dynamic home page,
+2. Orders Page,
+3. Authentication System, 
+4. Admin System, 
+5. Deals page
 
-check through live link: "https://bookzilla-store.web.app/";
- 
+I have used a JavaScript framework React which is the most popular. Also, using CSS,
+BootStrap, Material UI etc. 
