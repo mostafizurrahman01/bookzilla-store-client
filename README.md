@@ -1,8 +1,9 @@
 Hello,
-this is full stack app.
-Its not a complete app but here we have a 
-database system and authentication system.
+This is full stack web app. On this website, there have some
+interesting features. Some of these features are a Dynamic home page,
+Authentication System, Admin System, etc. An admin can update some of the features or include and also can delete. Anyone when a buyer click the buys now option, all of
+the information will conserve in our database. So, that is some explanation and definitely, it will
+not provide you a 100% service. It's always updateable by our admin. 
 
-
-check it out...
-here is the live link: "https://bookzilla-store.web.app/";
+check through live link: "https://bookzilla-store.web.app/";
+ 
