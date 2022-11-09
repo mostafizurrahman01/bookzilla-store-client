@@ -7,7 +7,7 @@ const ManageBookDetails = ({pd}) => {
 
     const deleteProduct = (event,_id) =>{
         console.log('clicked');
-        fetch(`https://sleepy-waters-97250.herokuapp.com/delete/${_id}`, {
+        fetch(`https://bookzilla-store-api.onrender.com/delete/${_id}`, {
             method: 'DELETE'
         })
             .then(res => res.json())
