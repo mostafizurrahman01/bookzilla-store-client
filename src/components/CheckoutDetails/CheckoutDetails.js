@@ -19,7 +19,7 @@ const CheckoutDetails = (props) => {
         
         const orderDetails = { ...loggedInUser, productName, productId, productPrice, orderTime: new Date() }
         console.log('checkout clicked');
-        fetch('https://sleepy-waters-97250.herokuapp.com/addOrder', {
+        fetch('https://bookzilla-store-api.onrender.com/addOrder', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(orderDetails)
