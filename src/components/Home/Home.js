@@ -9,7 +9,7 @@ const Home = () => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        fetch('https://sleepy-waters-97250.herokuapp.com/products')
+        fetch('https://bookzilla-store-api.onrender.com/products')
             .then(res => res.json())
             .then(data => {
                 setProducts(data)
