@@ -11,7 +11,7 @@ const Checkout = () => {
     const [clickProduct,setClickProduct] =useState({});
 
     useEffect(() => {
-        fetch('https://sleepy-waters-97250.herokuapp.com/product/'+id)
+        fetch('https://bookzilla-store-api.onrender.com/product/'+id)
         .then(res => res.json())
         .then(data => {
             console.log(data);
