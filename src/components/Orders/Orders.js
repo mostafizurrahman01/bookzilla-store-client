@@ -8,7 +8,7 @@ const Orders = () => {
 
 
     useEffect(() => {
-        fetch('https://sleepy-waters-97250.herokuapp.com/orders?email='+loggedInUser.email,{
+        fetch('https://bookzilla-store-api.onrender.com/orders?email='+loggedInUser.email,{
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
