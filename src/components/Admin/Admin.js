@@ -25,7 +25,7 @@ const Admin = () => {
             imageURL: imageURL
         };
         console.log(eventData);
-        const url = `https://sleepy-waters-97250.herokuapp.com/addProduct`;
+        const url = `https://bookzilla-store-api.onrender.com/addProduct`;
 
         fetch(url, {
             method: 'POST',
