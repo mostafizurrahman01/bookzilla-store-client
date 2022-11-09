@@ -8,7 +8,7 @@ const ManageBook = ({pd}) => {
     const [product, setProduct] = useState([]);
 
     useEffect(() => {
-        fetch('https://sleepy-waters-97250.herokuapp.com/products')
+        fetch('https://bookzilla-store-api.onrender.com/products')
             .then(res => res.json())
             .then(data => {
                 setProduct(data)
